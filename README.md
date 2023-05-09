@@ -24,10 +24,10 @@ Alternatively, you can create a shelf button in Maya and add the above code to t
 
 When the Gear Creator UI appears, you can adjust the number of teeth and length of the gear using the sliders. You can then click the "Create" button to create the gear. The gear will be selected in the Maya viewport, so you can modify it further if you wish.
 
-# Modifying Gears
-After creating a gear, you can modify it by adjusting the number of teeth and/or length using the sliders in the UI. Once you have made your changes, click the "Update" button to apply the changes to the gear.
+## Modifying Gears
+After creating a gear, you can modify it by adjusting the number of teeth and/or length using the sliders in the UI.
 
-# Resetting the UI
+## Resetting the UI
 If you want to start over with a new gear, you can click the "Reset" button to reset the UI to its default values.
 
 
