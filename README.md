@@ -12,7 +12,7 @@ The script was developed and tested on Maya 2023, but it should also work on ear
 
 To get started, you can download the Gear Creator script from the repository and place it in a directory of your choice. You will also need to download the gear-ui.ui file, which is the user interface design file for the PyQt5 interface.
 
-Usage
+## Usage
 Once you have the script and UI file in your chosen directory, you can run the script by opening Maya and running the following command in the Python console:
 
 ```
