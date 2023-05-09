@@ -19,8 +19,6 @@ Once you have the script and UI file in your chosen directory, you can run the s
 import importlib
 import gearui
 importlib.reload(gearui)
-
-ui = gearui
 ```
 Alternatively, you can create a shelf button in Maya and add the above code to the command field of the button.
 
